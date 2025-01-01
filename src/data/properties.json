@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1091,
+    "name": "Chalet Murasaki",
+    "description": "This 8 bedroom chalet (487 sqm) features a large master bedroom (55 sqm) with a hinoki en-suite bathroom and a daybed nook for quiet relaxation.",
+    "bathrooms": 4,
+    "standardPax": 17,
+    "maximumPax": 18,
+    "floorArea": 487
+  },
+  {
+    "id": 1092,
+    "name": "Chalet Murasaki a",
+    "description": "This 6 bedroom chalet features a large master bedroom (55 sqm) with a hinoki-lined en suite, large walk-in closet and daybed nook for quiet relaxation.",
+    "bathrooms": 3,
+    "standardPax": 13,
+    "maximumPax": 14,
+    "floorArea": 411
+  },
+  {
+    "id": 1093,
+    "name": "Chalet Murasaki b",
+    "description": "The 2 bedroom Chalet Murasaki Apartment (75.5 sqm) is fully equipped with all amenities, including 2 large flat-screen cable TVs, high-speed WiFi broadband internet, private ski storage, full kitchen and dining facilities, private laundry room and free parking space.",
+    "bathrooms": 1,
+    "standardPax": 4,
+    "maximumPax": 5,
+    "floorArea": 75
+  },
+  {
+    "id": 6,
+    "name": "Deep Tracks 1",
+    "description": "Located just 200 m from the Hirafu Gondola, this 1 bedroom apartment is ideal for those seeking fresh tracks.",
+    "bathrooms": 1,
+    "standardPax": 2,
+    "maximumPax": 3,
+    "floorArea": 44
+  },
+  {
+    "id": 7,
+    "name": "Deep Tracks 2",
+    "description": "Located just 200 m from the Hirafu Gondola, this 1 bedroom apartment is ideal for those seeking fresh tracks.",
+    "bathrooms": 1,
+    "standardPax": 2,
+    "maximumPax": 3,
+    "floorArea": 44
+  }
+]
